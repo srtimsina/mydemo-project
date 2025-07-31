@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Installing apache pkg"
+echo "Installing apache pkg."
