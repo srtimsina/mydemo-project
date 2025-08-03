@@ -14,4 +14,5 @@ else
 fi
 
 sudo apt install openjdk -y
+sudo mkdir /mydata/appdata
 
