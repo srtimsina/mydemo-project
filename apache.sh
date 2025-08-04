@@ -19,3 +19,5 @@ echo "Hello DevOps" > /var/www/html/index.html
 sudo apt install openjdk -y
 sudo mkdir /mydata/appdata
 
+# Install maven
+sudo apt install maven -y
