@@ -2,7 +2,7 @@
 
 echo "Installing apache pkg."
 sudo apt update
-#sudo apt install apache2 -y
+sudo apt install apache2 -y
 
 # Check if apache is running
 
